@@ -1,0 +1,11 @@
+# Core dependencies
+flask==3.1.0
+Werkzeug
+numpy==1.26.0
+torch
+torchvision
+ultralytics==8.3.129
+opencv-python
+paddleocr
+paddlepaddle
+tabulate
